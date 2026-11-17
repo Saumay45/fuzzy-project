@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/*
+!data/README.md
+models/*
+!models/.gitkeep
+results/*
+!results/.gitkeep
+learning_notes/
+.streamlit/secrets.toml
+experiments/
